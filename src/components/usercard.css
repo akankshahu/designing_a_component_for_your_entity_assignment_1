@@ -1,0 +1,24 @@
+.usercard {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .usercard-photo {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .usercard-name {
+    font-size: 1.5em;
+    margin: 8px 0;
+  }
+  
+  .usercard-email,
+  .usercard-phone,
+  .usercard-address {
+    margin: 4px 0;
+  }
